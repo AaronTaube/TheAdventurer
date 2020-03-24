@@ -1,0 +1,119 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Title.unity
+    guid: 205be0a908e4ee64092eda2e15456faa
+  - enabled: 1
+    path: Assets/Scenes/Intro.unity
+    guid: b30d6b9f14d6d6c4d8fc54a4349fe587
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: 7e50a93bce6833640891d6f149ba1e16
+  - enabled: 1
+    path: Assets/Scenes/Game Select.unity
+    guid: 4679de1cc19461345944e56c1ec42efa
+  - enabled: 1
+    path: Assets/Scenes/Grassland.unity
+    guid: 31d707fcdbfd72b49a63e7a1604264d7
+  - enabled: 1
+    path: Assets/Scenes/Tundra.unity
+    guid: a779262feb037d84e9eb7c845e215fa2
+  - enabled: 1
+    path: Assets/Scenes/Desert.unity
+    guid: 4b53cfb9fd98f5d4796edd19b204c943
+  - enabled: 1
+    path: Assets/Scenes/Grassland Scenes/GrasslandMap1.unity
+    guid: e1ba853dae07d3d47b408bd229cefb26
+  - enabled: 1
+    path: Assets/Scenes/Grassland Scenes/GrasslandMap2.unity
+    guid: ac6082c5cc4b1e748bbdacc29c4ca6f1
+  - enabled: 1
+    path: Assets/Scenes/Grassland Scenes/GrasslandMap3.unity
+    guid: c414f84feaca7a344844f3b4438b6112
+  - enabled: 1
+    path: Assets/Scenes/Grassland Scenes/Grassland1.unity
+    guid: 826803d4f9c8c724999df3add599f518
+  - enabled: 1
+    path: Assets/Scenes/Grassland Scenes/Grassland2.unity
+    guid: ac5d4990c30910a41a66bcc17b58e403
+  - enabled: 1
+    path: Assets/Scenes/Grassland Scenes/Grassland3.unity
+    guid: ac8bddfcfb2eb704d900830f3eb9886a
+  - enabled: 1
+    path: Assets/Scenes/Grassland Scenes/Grassland4.unity
+    guid: 58bc55a4492e4724f8f23f29da7004bf
+  - enabled: 1
+    path: Assets/Scenes/Grassland Scenes/Grassland5.unity
+    guid: 5802f18f7ebeaed4cb34b587ab61662d
+  - enabled: 1
+    path: Assets/Scenes/Grassland Scenes/Grassland6.unity
+    guid: 29591e0bb57afaa488e52ad8a4cffd78
+  - enabled: 1
+    path: Assets/Scenes/Grassland Scenes/Grassland7.unity
+    guid: a3b18929f393a7b4497b5c82430aa90b
+  - enabled: 1
+    path: Assets/Scenes/Grassland Scenes/Grassland8.unity
+    guid: 4a42cb602732fc943be76aa00f7e8842
+  - enabled: 1
+    path: Assets/Scenes/Grassland Scenes/Grassland9.unity
+    guid: ac99050753d084a41bdb1ee9d7f71c21
+  - enabled: 1
+    path: Assets/Scenes/Grassland Scenes/Grassland10.unity
+    guid: 9bc35d60fadd17748a36d70e3a269dcf
+  - enabled: 1
+    path: Assets/Scenes/Grassland Scenes/Grassland11.unity
+    guid: 9ac42686e0ef6754cb446b14ff9a1b9f
+  - enabled: 1
+    path: Assets/Scenes/Grassland Scenes/Grassland12.unity
+    guid: ec3d56bba2478d247bafb3ce422a6b27
+  - enabled: 1
+    path: Assets/Scenes/Tundra Scenes/Tundra1.unity
+    guid: d7c0f6d4c2df40648ac547e5b7d98cd9
+  - enabled: 1
+    path: Assets/Scenes/Tundra Scenes/Tundra2.unity
+    guid: d7f11d1d256e81846b60f75de7ad8047
+  - enabled: 1
+    path: Assets/Scenes/Tundra Scenes/Tundra3.unity
+    guid: 2a1ec863360fb2e4dbdeb476c79d1b6e
+  - enabled: 1
+    path: Assets/Scenes/Tundra Scenes/Tundra4.unity
+    guid: 98a0f6575cbdcec48acdf505534ca325
+  - enabled: 1
+    path: Assets/Scenes/Tundra Scenes/Tundra5.unity
+    guid: 14fc6f2d84ee37a44bd5f21d76aa2fd0
+  - enabled: 1
+    path: Assets/Scenes/Tundra Scenes/Tundra6.unity
+    guid: 8fa721c617c112c47b9ffde149696353
+  - enabled: 1
+    path: Assets/Scenes/Tundra Scenes/Tundra7.unity
+    guid: 2889be32b13a9284ab2416d03b9b3a29
+  - enabled: 1
+    path: Assets/Scenes/Tundra Scenes/Tundra8.unity
+    guid: 70b462926344e5a40a0c2a9a8a80c2c5
+  - enabled: 1
+    path: Assets/Scenes/Tundra Scenes/Tundra9.unity
+    guid: 766fc5e41e6147746a8c3be7eb9adfff
+  - enabled: 1
+    path: Assets/Scenes/Tundra Scenes/Tundra10.unity
+    guid: fe89b9fb65638c243b9685204acb0e52
+  - enabled: 1
+    path: Assets/Scenes/Tundra Scenes/Tundra11.unity
+    guid: 8a6750c07fa448f4f84cd6005529ad50
+  - enabled: 1
+    path: Assets/Scenes/Tundra Scenes/Tundra12.unity
+    guid: 0163d55cc26641b459b06d325c83a0f1
+  - enabled: 1
+    path: Assets/Scenes/Tundra Scenes/TundraMap1.unity
+    guid: c42cf5a64f937dd428dcf95505d94b61
+  - enabled: 1
+    path: Assets/Scenes/Tundra Scenes/TundraMap2.unity
+    guid: d0080576d09c6134fb0a858dc6eec507
+  - enabled: 1
+    path: Assets/Scenes/Tundra Scenes/TundraMap3.unity
+    guid: dba6ccc60eedf96429d9f6c65f8a33bf
+  m_configObjects: {}

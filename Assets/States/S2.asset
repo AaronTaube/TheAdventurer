@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6d1c122377e690b42ae36418e4b88dc1, type: 3}
+  m_Name: S2
+  m_EditorClassIdentifier: 
+  titleText: Sample Scene 2
+  storyText: 'Sample Story Text
+
+
+    1. Aggressive Option
+
+    2. Defensive Option
+
+    3. Evasive Option
+
+    4. Passive Option'
+  nextState:
+  - {fileID: 11400000, guid: 7d6cae6bd172eb14ab4464512305a1a4, type: 2}
+  - {fileID: 11400000, guid: 35f4c8383f57501419ebdb7c64571a70, type: 2}
+  - {fileID: 11400000, guid: 078f0bf695a42314c8848b6f745bc77a, type: 2}
+  - {fileID: 11400000, guid: 7d6ceed88f1a0cf4486828ba7150fba2, type: 2}
